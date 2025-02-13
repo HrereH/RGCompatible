@@ -6,7 +6,7 @@ RGCompatible-应用兼容器
 <br />
 想要在安卓设备上运行HarmonyOS NEXT原生应用吗？期待一下吧！RGCompatible将会在正式发布后直接搭载HarmonyOS NEXT容器内核。
 <br />
-大家有任何想法和想到的代码都可以贡献于此！
+有任何想法和想到的代码都可以贡献于此！
 <br />
 开发者：
 <br />
