@@ -1,15 +1,8 @@
 # RGCompatible-新一代应用兼容器
-Is it different from a virtual machine?
-<br />
-The virtual machine is the entire virtual Android system running on the Android device, and the long-term running of the virtual Android system often occupies a large amount of running memory and causes high power consumption; RGCompatible is a container kernel running on Android devices. The container is only responsible for running Android applications, and the container is automatically closed when there is no application running in the container. Compared with the virtual machine, it will greatly reduce the running memory occupation and reduce power consumption.
-<br />
 和虚拟机有什么不同吗？
 <br />
 虚拟机是在Android设备上运行的整个虚拟的Android系统，且虚拟的Android系统长期运行往往都会占用大量运行內存并导致高耗电；RGCompatible是运行在Android设备上的容器内核，容器只负责运行Android应用，且容器内没有应用运行时自动关闭容器，和虚拟机相比，会大幅度减少运行内存占用，降低耗电量。
 <br />
-和虛擬機有什麼不同嗎？
-<br />
-虛擬機是在Android設備上運行的整個虛擬的Android系統，且虛擬的Android系統長期運行往往都會佔用大量運行內存並導致高耗電；RGCompatible是運行在Android設備上的容器內核，容器只負責運行Android應用程式，且容器內沒有應用程式運行時自動關閉容器，和虛擬機相比，會大幅減少運行內存佔用，降低耗電量。
 ## English
 This compatible container can normally run incompatible applications on high Android devices. RG Compatible uses the Android8-Android12 container kernel, so that every incompatible application on high Android devices can run normally in this container.
 <br />
